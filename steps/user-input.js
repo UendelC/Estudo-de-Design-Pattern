@@ -8,4 +8,7 @@ function step(content) {
     }
 }
 
+let another_thing = 'new';
+const new_feat = true;
+
 module.exports = step
